@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AplicacionInterfell.Entities": {
+      "commandName": "Executable"
+    }
+  }
+}

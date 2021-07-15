@@ -1,0 +1,9 @@
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.deps.json
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.dll
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.pdb
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.AssemblyInfoInputs.cache
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.AssemblyInfo.cs
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.csproj.CoreCompileInputs.cache
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.dll
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.pdb
+C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Data\obj\Debug\netcoreapp3.1\AplicacionInterfell.Data.csproj.AssemblyReference.cache
