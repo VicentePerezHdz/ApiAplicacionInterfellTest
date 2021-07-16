@@ -8,4 +8,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AplicacionInterfell.Bussiness\AplicacionInterfell.Bussiness.csproj" />
+    <ProjectReference Include="..\AplicacionInterfell.Data\AplicacionInterfell.Data.csproj" />
+    <ProjectReference Include="..\AplicacionInterfell.Entidades\AplicacionInterfell.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

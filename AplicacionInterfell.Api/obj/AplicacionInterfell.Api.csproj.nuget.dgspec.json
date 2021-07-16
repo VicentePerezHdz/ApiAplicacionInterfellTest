@@ -27,7 +27,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\AplicacionInterfell.Bussiness.csproj": {
+                "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\AplicacionInterfell.Bussiness.csproj"
+              },
+              "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj": {
+                "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj"
+              },
+              "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj": {
+                "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +69,181 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\AplicacionInterfell.Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\AplicacionInterfell.Bussiness.csproj",
+        "projectName": "AplicacionInterfell.Bussiness",
+        "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\AplicacionInterfell.Bussiness.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj": {
+                "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj"
+              },
+              "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj": {
+                "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj",
+        "projectName": "AplicacionInterfell.Data",
+        "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\AplicacionInterfell.Data.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj",
+        "projectName": "AplicacionInterfell.Entities",
+        "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\AplicacionInterfell.Entities.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
