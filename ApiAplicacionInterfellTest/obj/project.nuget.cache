@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "TWAiPjDsJYkieaOqMKA0wyymqJp7vhfGuLqSuwxcfFVze/iXY8D1Vi2HjOJ88GdCyWEjykLHAE/R0402LqscIA==",
-  "success": true,
+  "dgSpecHash": "ogpD7HBzdnbONgsErYyIuavXTwWUnzt6eiuxByniPwl+iKS3eXdAwuJfSXNAwc4tpIMg1GTT2QdYu3XREBt/Sw==",
+  "success": false,
   "projectFilePath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\ApiAplicacionInterfellTest\\ApiAplicacionInterfellTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -68,5 +68,15 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project AplicacionInterfell.Api is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project AplicacionInterfell.Api supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AplicacionInterfell.Api",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -15,7 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionInterfell.Utiliti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionInterfell.Api", "AplicacionInterfell.Api\AplicacionInterfell.Api.csproj", "{C71D5729-864D-4DF6-82E7-BE495C5420BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAplicacionInterfellTest", "ApiAplicacionInterfellTest\ApiAplicacionInterfellTest.csproj", "{3238838B-3553-4B0A-99CC-85514796E941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAplicacionInterfellTest", "ApiAplicacionInterfellTest\ApiAplicacionInterfellTest.csproj", "{3238838B-3553-4B0A-99CC-85514796E941}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resultados", "Resultados", "{252A579D-EF27-497B-8E5D-D5DCBCE57C21}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\HP\Downloads\response_1626413273430.json = ..\..\..\Users\HP\Downloads\response_1626413273430.json
+		..\..\..\Users\HP\Documents\Respuesta.PNG = ..\..\..\Users\HP\Documents\Respuesta.PNG
+	EndProjectSection
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RestoreDataBase", "RestoreDataBase\RestoreDataBase.sqlproj", "{55CF2AC5-75C4-47DF-8AF4-00F86379B892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{C698F3E3-A5F3-4448-85E3-D6976048FBEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,16 @@ Global
 		{3238838B-3553-4B0A-99CC-85514796E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3238838B-3553-4B0A-99CC-85514796E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3238838B-3553-4B0A-99CC-85514796E941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CF2AC5-75C4-47DF-8AF4-00F86379B892}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C698F3E3-A5F3-4448-85E3-D6976048FBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C698F3E3-A5F3-4448-85E3-D6976048FBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C698F3E3-A5F3-4448-85E3-D6976048FBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C698F3E3-A5F3-4448-85E3-D6976048FBEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,44 @@
+[
+  {
+    "county_fips": 1,
+    "county_name": "Vicente",
+    "state_name": "Vicente",
+    "date": "2021-07-16T00:00:00",
+    "county_vmt": 0,
+    "baseline_jan_vmt": 0,
+    "percent_change_from_jan": 0,
+    "mean7_county_vmt": 0,
+    "mean7_percent_change_from_jan": 0,
+    "date_at_low": "2021-07-16T00:00:00",
+    "mean7_county_vmt_at_low": 0,
+    "percent_change_from_low": 0
+  },
+  {
+    "county_fips": 2,
+    "county_name": "Vicente1",
+    "state_name": "Vicente",
+    "date": "2021-07-16T00:00:00",
+    "county_vmt": 0,
+    "baseline_jan_vmt": 0,
+    "percent_change_from_jan": 0,
+    "mean7_county_vmt": 0,
+    "mean7_percent_change_from_jan": 0,
+    "date_at_low": "2021-07-16T00:00:00",
+    "mean7_county_vmt_at_low": 0,
+    "percent_change_from_low": 0
+  },
+  {
+    "county_fips": 3,
+    "county_name": "Vicente3",
+    "state_name": "Vicente",
+    "date": "2021-07-16T00:00:00",
+    "county_vmt": 0,
+    "baseline_jan_vmt": 0,
+    "percent_change_from_jan": 0,
+    "mean7_county_vmt": 0,
+    "mean7_percent_change_from_jan": 0,
+    "date_at_low": "2021-07-16T00:00:00",
+    "mean7_county_vmt_at_low": 0,
+    "percent_change_from_low": 0
+  }
+]

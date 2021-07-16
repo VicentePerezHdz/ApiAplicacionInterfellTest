@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "AplicacionInterfell.Api/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/AplicacionInterfell.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AplicacionInterfell.Api.dll": {}
+        }
       }
     }
   },
@@ -4613,10 +4623,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "AplicacionInterfell.Api/1.0.0": {
+      "type": "project",
+      "path": "../AplicacionInterfell.Api/AplicacionInterfell.Api.csproj",
+      "msbuildProject": "../AplicacionInterfell.Api/AplicacionInterfell.Api.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "AplicacionInterfell.Api >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1"
@@ -4648,7 +4664,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Api\\AplicacionInterfell.Api.csproj": {
+              "projectPath": "C:\\Interfellv1\\VicentePerezHdz\\ApiAplicacionInterfellTest\\AplicacionInterfell.Api\\AplicacionInterfell.Api.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4692,5 +4712,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project AplicacionInterfell.Api is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project AplicacionInterfell.Api supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AplicacionInterfell.Api",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

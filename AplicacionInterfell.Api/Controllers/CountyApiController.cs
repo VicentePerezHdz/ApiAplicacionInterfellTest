@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 using AplicacionInterfell.Bussiness;
+using Microsoft.Extensions.Configuration;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace AplicacionInterfell.Api.Controllers
@@ -14,9 +15,33 @@ namespace AplicacionInterfell.Api.Controllers
     [ApiController]
     public class CountyApiController : ControllerBase
     {
-
-
         CountyBL BL = new CountyBL();
+        private IConfiguration Configuration;
+
+
+        public CountyApiController(IConfiguration _configuration)
+        {
+            Configuration = _configuration;
+            BL.CadenaConexion = this.Configuration.GetConnectionString("MyConn");
+
+        }
+
+        [HttpGet]
+        [Route("ListadoCounty")]
+        public IActionResult ObtenerCounty()
+        {
+            try
+            {
+                //BL.Obtener();
+                return Ok(BL.Obtener());
+            }
+            catch (Exception e)
+            {
+                return Ok(e);
+            }
+        }
+
+        //CountyBL BL = new CountyBL();
 
         // GET: api/<CountyApiController>
         [HttpPost]
@@ -25,39 +50,52 @@ namespace AplicacionInterfell.Api.Controllers
             string mensaje = string.Empty;
             try
             {
-                mensaje = BL.Insertar(county).ToString();
+                mensaje = "Ultimo Id Asignado" + BL.Insertar(county).ToString();
                 return mensaje;
             }
             catch (Exception e)
             {
+                mensaje = "Ocurrio lo siguiente" + e.Message;
                 return mensaje;
             }
         }
 
         // GET api/<CountyApiController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+
+        public IActionResult Get(int id)
         {
-            return "value";
+            try
+            {
+                //BL.Obtener();
+                return Ok(BL.Obtener().Where(x => x.county_fips == id).FirstOrDefault());
+            }
+            catch (Exception e)
+            {
+                return Ok(e);
+            }
         }
 
-        
 
-        
+
+
 
         // DELETE api/<CountyApiController>/5
-        [HttpDelete("{id}")]
-        public string  Delete(int id)
+        [HttpPost]
+        [Route("Eliminar")]
+
+        public string Delete(int id)
         {
             string mensaje = string.Empty;
             try
             {
-                mensaje = BL.Eliminar(id);
+                mensaje = "Se elimino el siguiente registros" + BL.Eliminar(id) + id;
                 return mensaje;
             }
-            catch (Exception e) 
+            catch (Exception e)
             {
-                return mensaje;        
+                mensaje = "Ocurrio lo siguiente" + e.Message;
+                return mensaje;
             }
 
 

@@ -12,3 +12,17 @@ C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Bussiness\bin\Debug\net
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.pdb
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.pdb
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.csproj.CopyComplete
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.deps.json
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.pdb
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Data.pdb
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.pdb
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.csprojAssemblyReference.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.AssemblyInfoInputs.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.AssemblyInfo.cs
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.csproj.CoreCompileInputs.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.csproj.CopyComplete
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Bussiness\obj\Debug\netcoreapp3.1\AplicacionInterfell.Bussiness.pdb

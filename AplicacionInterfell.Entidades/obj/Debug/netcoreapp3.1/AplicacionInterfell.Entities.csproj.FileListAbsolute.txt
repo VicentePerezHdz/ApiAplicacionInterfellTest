@@ -7,3 +7,12 @@ C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Entidades\obj\Debug\net
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.csproj.CoreCompileInputs.cache
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.dll
 C:\Vic\Prueba\ApiAplicacionInterfell\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.pdb
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.deps.json
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\bin\Debug\netcoreapp3.1\AplicacionInterfell.Entities.pdb
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.csprojAssemblyReference.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.AssemblyInfoInputs.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.AssemblyInfo.cs
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.csproj.CoreCompileInputs.cache
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.dll
+C:\Interfellv1\VicentePerezHdz\ApiAplicacionInterfellTest\AplicacionInterfell.Entidades\obj\Debug\netcoreapp3.1\AplicacionInterfell.Entities.pdb

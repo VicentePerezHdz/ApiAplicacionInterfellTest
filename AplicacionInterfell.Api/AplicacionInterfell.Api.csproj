@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,6 +13,10 @@
     <ProjectReference Include="..\AplicacionInterfell.Bussiness\AplicacionInterfell.Bussiness.csproj" />
     <ProjectReference Include="..\AplicacionInterfell.Data\AplicacionInterfell.Data.csproj" />
     <ProjectReference Include="..\AplicacionInterfell.Entidades\AplicacionInterfell.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resultados\" />
   </ItemGroup>
 
 </Project>
